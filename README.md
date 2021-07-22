@@ -4,7 +4,7 @@
 Esse é um projeto desenvolvimento entendimento de microsserviços como parte do aprendizado no curso **Santander Bootcamp | Fullstack Developer** promovido pela *Digital Innovation One*
 
 O projeto é dividido em três partes
-- Um projeto de configuração para gerenciar os projetos de cadastro de produto e adição do produto em um carrinho de compra
+- Um projeto de configuração para gerenciar todos os microsserviços
 - Um projeto de cadastro de produto utilizando ElasticSearch
 - Um projeto de adicionar o produto no carrinho de compra utilizando Redis
 
@@ -38,11 +38,11 @@ mvn spring-boot:run
 ```
 
 ## ElasticSearch
-Para utilizar o ElasticSearch, é necessário realizar o download através do [link:](https://www.elastic.co/pt/downloads/elasticsearch) e executar conforme orientação do sistema operacional.
+Para utilizar o ElasticSearch, é necessário realizar o download através do [link](https://www.elastic.co/pt/downloads/elasticsearch) e executar conforme orientação do sistema operacional.
 OBS: Também é possível rodar através de um docker
 
 ## Redis
-Para utilizar o Redis, é necessário realizar o download através do [link:](https://redis.io/download), realizar a instalação e executar conforme orientação do sistema operacional.
+Para utilizar o Redis, é necessário realizar o download através do [link](https://redis.io/download), realizar a instalação e executar conforme orientação do sistema operacional.
 OBS: Também é possível rodar através de um docker
 
 ## Contribuindo 
